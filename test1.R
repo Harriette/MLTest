@@ -1,2 +1,4 @@
 #Test 1
-runif(10)
+x <- runif(10)
+plot(x)
+
